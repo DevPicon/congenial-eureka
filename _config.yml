@@ -22,7 +22,7 @@ title: Física 1 - Wiki
 email: u201300214@upc.edu.pe
 description: >- # this means to ignore newlines until "baseurl:"
   I will put relevant information about the course here.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/congenial-eureka" # the subpath of your site, e.g. /blog
 url: "https://devpicon.github.io/congenial-eureka/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devpicon
 github_username:  devpicon
